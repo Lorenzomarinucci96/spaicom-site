@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Signal Processing & Topological Signal Processing
-  - Topological Deeplearning
-  - Semantic Communications
+  - Gaussian Processes
+  - Adaptive Learning
 
 education:
   courses:
